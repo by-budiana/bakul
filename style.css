@@ -124,6 +124,7 @@ p {
 /* css about */
 #about h1 {
   text-align: center;
+  padding-top: 25%;
 }
 .about-section {
   padding: 60px 20px;
